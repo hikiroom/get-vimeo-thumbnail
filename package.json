@@ -1,0 +1,14 @@
+{
+  "name": "get-vimeo-thumbnail",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hikiroom/get-vimeo-thumbnail.git"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "fs-extra": "^9.0.1",
+    "sync-request": "^6.1.0"
+  },
+  "license": "MIT"
+}
